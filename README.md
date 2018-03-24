@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 24, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daniel Vincent
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is to create a working photo gallery with various buttons allowing the user to interact with the gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dav14.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use the "populateFigures" function as a better way to display images on a web application.
+2. I became more comfortable with using "if", "else", and "for" statements.
+3. I learned how to use the "createEventListeners" function to control what happens when a user interacts with a web application.
